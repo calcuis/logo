@@ -1,5 +1,5 @@
 # Logo <cαlcμ>
-This repository contains the official calcuis logo in SVG and PNG form.
+This repository contains the official calcuis logo in SVG and PNG format.
 
 
 | SVG | PNG |
